@@ -4,13 +4,15 @@ The goal of this project is to build a neural network model using TensorFlow to 
 
 Each training and test example is assigned to one of the following labels:
 
-* 0 - T-shirt/top
-* 1 - Trouser
-* 2 - Pullover
-* 3 - Dress
-* 4 - Coat
-* 5 - Sandal
-* 6 - Shirt
-* 7 - Sneaker
-* 8 - Bag
-* 9 - Ankle boot
+| Label | Item name |
+|---|-------------|
+| 0 | t-shirt/top |
+| 1 | trouser |
+| 2 | pullover |
+| 3 | dress |
+| 4 | coat |
+| 5 | sandal |
+| 6 | shirt |
+| 7 | sneaker |
+| 8 | bag |
+| 9 | ankle boot |
